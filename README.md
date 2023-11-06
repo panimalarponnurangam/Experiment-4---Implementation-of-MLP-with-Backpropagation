@@ -173,32 +173,40 @@ print(classification_report(Y_test,predictions))
 ## OUTPUT 
 DATASET LABELS:
 
+
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/b7cbb555-304f-42fb-ab66-abd1c33e2e43)
 
 X.HEAD():
+
 
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/c454d902-4a17-4258-bccf-df806b8a2728)
 
 
 Y.HEAD():
 
+
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/771cea53-3c1b-4110-a751-ffb6b67603a7)
 
 UNIQUE VALUES IN Y:
+
 
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/219d49a0-fd24-409d-8715-713c006e2580)
 
 
 PREDICTIONS
 
+
+
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/9b9b64d7-5fe5-4e70-9468-a0fde64f4954)
 
 CONFUSION MATRIX
+
 
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/6f7d28d2-a937-4460-a63d-4e262da217f6)
 
 
 CLASSIFICATION REPORT
+
 
 ![image](https://github.com/panimalarponnurangam/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/121490826/dbf26d05-ec32-4fe5-bde7-6123791578d5)
 
